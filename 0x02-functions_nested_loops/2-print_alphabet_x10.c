@@ -16,5 +16,7 @@ for (b = 97; b <= 122; b++)
 _putchar(b);
 }
 _putchar('\n');
+
 }
+return (0);
 }
