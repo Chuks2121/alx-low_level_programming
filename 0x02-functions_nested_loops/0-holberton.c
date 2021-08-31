@@ -6,6 +6,7 @@
 * Return: 0
 */
 int main(void)
+
 {
 char c[10] = "Holberton";
 int i;
