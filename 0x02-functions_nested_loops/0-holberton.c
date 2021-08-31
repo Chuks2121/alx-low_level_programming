@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
 * main - function to print
@@ -7,12 +7,12 @@
 */
 int main(void)
 {
-char holberton[9] = {'H', 'o', 'l', 'b', 'e', 'r', 't', 'o', 'n'};
-unsigned int c;
+char c[10] = "Holberton";
+int i;
 
-for (c = 0; c < sizeof(holberton); c++)
+for (i = 0; i < 10; i++)
 {
-_putchar(holberton[c]);
+_putchar(c[i]);
 }
 _putchar('\n');
 return (0);
