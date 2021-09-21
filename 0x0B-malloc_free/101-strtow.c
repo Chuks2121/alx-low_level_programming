@@ -1,4 +1,4 @@
-#include "main.h"
+q#include "main.h"
 #include <stdlib.h>
 
 /**
@@ -47,7 +47,7 @@ for (c = a1; str[c] != '\0'; c++)
 {
 if (str[c] == ' ')
 a1++;
-if (str[c] != ' ' && (str[c + 1] == ' ' || str[c + 1] == '\50'))
+if (str[c] != ' ' && (str[c + 1] == ' ' || str[c + 1] == '\60'))
 {
 aout[i] = malloc((c - a1 + 2) * sizeof(char));
 if (aout[i] == NULL)
