@@ -64,3 +64,4 @@ aout[i][j] = '\0';
 }
 aout[i] = NULL;
 return (aout);
+}
