@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 this file is a project for **hello_word ;
 * 0 Write a script that runs a C file through the preprocessor and save the result into another file.
 * 1.Write a script that compiles a C file but does not link
 * 2. Write a script that generates the assembly code of a C code and save it in an output file.
 * 3. Write a script that compiles a C file and creates an executable named cisfun.
-=======
-this file is a project for hello_word ;
-*0 Write a script that runs a C file through the preprocessor and save the result into another file.
-*1Write a script that compiles a C file but does not link
-*2 Write a script that generates the assembly code of a C code and save it in an output file.
-*3 Write a script that compiles a C file and creates an executable named cisfun.
->>>>>>> 30c7ac57d7cf59bd36f751d00ef5028d71eae012
-
